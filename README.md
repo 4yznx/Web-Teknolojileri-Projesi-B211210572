@@ -15,16 +15,16 @@ Takımımız Sayfası:
 Sehrim sayfası içinde “bana tıklayın” bir button göreceksiniz. Tıkladıktan sonra takımımız sayfası açılacak. Bu sayfada Galatasaray futbol takımın hakkında bilgi verilecek. Genel Bakış, nef stadyumu ve takım kadrosunun hakkında bilgi verilecek.
 
  
-APİ Sayafası :
+APİ Sayafası:
 
 Bu saydfada ilgilendiğim “Marvel” comics hakkındadır. bir arama motoru bulacaksınız, herhangi bir karakterin adını yazın (Batman gibi) ve kart olarak görünecek, artı düğmesine tıklayın ve seçtiğiniz kartı favoriler sayfasında görünecektir.
 
-İletişim Sayfası :
+İletişim Sayfası:
 
 Bu sayfada iletişim formu olacak. Sizden adınızı, telefon numaranızı, e-postanızı istenecek. Boş mu, e-mail formatında mı vb, kontrol edilecek. Mesajınızı yazın ve en az 15 karakter olması gerek. Bilginizi beğenmezseniz “Hepsini Silin” buttona tıklayın. Tüm yazdıklarınız doğruysa “Gönder” buttona tıklayıp size bir php sayfasına yönlendirecek ve mesajınızı gösterilecek.
 
 
-Kullanıcı Girişi Sayfası :
+Kullanıcı Girişi Sayfası:
 
 Bu sayfada hesap oluştura tıklayın ve yeni hesap yapın. Kullanıcı adı, e-posta, yaş ve şifre isteyecek. Yaptıktan sonra giriş yapın. Bilgileriniz doğruysa size anasyafaya yönlendirecek. Anasayfada e-posta adresiniz ile yaşınız gösterilecek.  Profil bilgilerinizi değiştirebilirsiniz (Profili değiştir kısmından), Çıkış yap da yapabilirsiniz.
 
