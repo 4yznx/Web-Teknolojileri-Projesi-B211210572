@@ -28,4 +28,4 @@ Kullanıcı Girişi Sayfası:
 
 Bu sayfada hesap oluştura tıklayın ve yeni hesap yapın. Kullanıcı adı, e-posta, yaş ve şifre isteyecek. Yaptıktan sonra giriş yapın. Bilgileriniz doğruysa size anasyafaya yönlendirecek. Anasayfada e-posta adresiniz ile yaşınız gösterilecek.  Profil bilgilerinizi değiştirebilirsiniz (Profili değiştir kısmından), Çıkış yap da yapabilirsiniz.
 
-hosting hizmeti veren site: https://www.infinityfree.net/
+Hosting hizmeti veren site: https://www.infinityfree.net/
