@@ -1,4 +1,4 @@
-Site : https://yazanalsolyman.rf.gd
+Sitem : https://yazanalsolyman.rf.gd
 
 Hakkımda Sayfası (main):
 
